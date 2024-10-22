@@ -2,8 +2,8 @@
 - 👨🏿‍🏫 Atualmente trabalho como reposito no atacadão
 - 🧑🏿‍💻 Trabalho com reposissão.
 - 📽️ Procuro colaborar no desenvolvimento de projetos
-- 🧑🏿‍💻 Pergunte-me sobre Desenvolvimento de Sistemas
-
+- 🧑🏿‍💻 respoda-me sobre Desenvolvimento de Sistemas
+- 
  <div style="display: inline_block">
   <br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
